@@ -1,0 +1,16 @@
+# Shared Python, cache and credential rules are inherited from ../.gitignore.
+/frontend/node_modules/
+/frontend/dist/
+/frontend/*.tsbuildinfo
+
+# Generated browser-test reports, screenshots and runtime process files.
+/frontend/test-results/
+/frontend/playwright-report/
+/verification/browser-artifacts/
+/verification/browser-results.json
+/verification/dashboard-*.png
+/verification/*.log
+/verification/*.pid
+
+# The browser test currently expects this fixture here; allow it if restored.
+!/verification/1016_DFA_ANG_XX.wav

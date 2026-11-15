@@ -1,0 +1,19 @@
+{
+  "purpose": "Artifact pointers for future dashboard development; no model replacement",
+  "notebook": "notebooks/ARTI502_Colab.ipynb",
+  "frozen_selection": "outputs/CREMAD_SER/full/complete_experiments/frozen_selection.json",
+  "models": {
+    "cnn_lstm": {
+      "checkpoint": "outputs/CREMAD_SER/full/complete_experiments/final_cnn_lstm_k40/best.pt",
+      "checkpoint_sha256": "57bd82dfdfffd15bffa8bd094d32d8bf04881c7114716c70af70a6e9749785c9",
+      "normalizer": "outputs/CREMAD_SER/full/complete_experiments/final_cnn_lstm_k40/normalizer.npz",
+      "normalizer_sha256": "08702e8ba0b8b65cb45df7bfbb48b3acbf69bf4c6cfcf12be2ef7b4c66ef5dc7"
+    },
+    "transformer": {
+      "checkpoint": "outputs/CREMAD_SER/full/complete_experiments/final_transformer_k40/best.pt",
+      "checkpoint_sha256": "886c2fbb77d7265491328fb58bab1056bc1bd1874b2e8f7bb557d1daa26f0147",
+      "normalizer": "outputs/CREMAD_SER/full/complete_experiments/final_transformer_k40/normalizer.npz",
+      "normalizer_sha256": "08702e8ba0b8b65cb45df7bfbb48b3acbf69bf4c6cfcf12be2ef7b4c66ef5dc7"
+    }
+  }
+}

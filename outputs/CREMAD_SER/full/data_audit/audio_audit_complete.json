@@ -1,0 +1,11 @@
+{
+  "identity": {
+    "source": "a466aee66f17e9e2934d1f942e2d8ac4db12d4dfe7b8e85f9daf7704f899c31f",
+    "manifest": "c8bbbd0f306eb5b1d96620816d0b2a141d81284e5b68de85fff2acda2c342b75",
+    "scope": "CREMA-D"
+  },
+  "files": {
+    "audio_inventory.json": "65560ecc9041b6f4022c028fe4fd03fb5d43c30a31ea8c3539d92c0f200bd88b",
+    "audio_statistics_per_clip.csv": "36d05061ffcd87c8dec9c0a5dc286374c8546eea265eefeaf938843dcb2c1401"
+  }
+}

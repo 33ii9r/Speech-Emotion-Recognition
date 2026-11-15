@@ -1,0 +1,120 @@
+{
+  "metrics": {
+    "accuracy": 0.5499124343257443,
+    "precision_macro": 0.5554744755472926,
+    "recall_macro": 0.5546650289165259,
+    "uar": 0.5546650289165259,
+    "balanced_accuracy": 0.5546650289165259,
+    "macro_f1": 0.5482741773872531,
+    "weighted_f1": 0.5474620996284102
+  },
+  "per_class": {
+    "angry": {
+      "precision": 0.6898395721925134,
+      "recall": 0.6615384615384615,
+      "f1-score": 0.675392670157068,
+      "support": 195.0
+    },
+    "disgust": {
+      "precision": 0.5153374233128835,
+      "recall": 0.4307692307692308,
+      "f1-score": 0.4692737430167598,
+      "support": 195.0
+    },
+    "fearful": {
+      "precision": 0.5,
+      "recall": 0.49743589743589745,
+      "f1-score": 0.4987146529562982,
+      "support": 195.0
+    },
+    "happy": {
+      "precision": 0.5680473372781065,
+      "recall": 0.49230769230769234,
+      "f1-score": 0.5274725274725275,
+      "support": 195.0
+    },
+    "neutral": {
+      "precision": 0.4752851711026616,
+      "recall": 0.7485029940119761,
+      "f1-score": 0.5813953488372093,
+      "support": 167.0
+    },
+    "sad": {
+      "precision": 0.5843373493975904,
+      "recall": 0.49743589743589745,
+      "f1-score": 0.5373961218836565,
+      "support": 195.0
+    },
+    "accuracy": 0.5499124343257443,
+    "macro avg": {
+      "precision": 0.5554744755472926,
+      "recall": 0.5546650289165259,
+      "f1-score": 0.5482741773872531,
+      "support": 1142.0
+    },
+    "weighted avg": {
+      "precision": 0.5574405880905934,
+      "recall": 0.5499124343257443,
+      "f1-score": 0.5474620996284102,
+      "support": 1142.0
+    }
+  },
+  "roc_auc": [
+    {
+      "label": "angry",
+      "auc": 0.9155768553867815
+    },
+    {
+      "label": "disgust",
+      "auc": 0.8085506186878944
+    },
+    {
+      "label": "fearful",
+      "auc": 0.8032545420085019
+    },
+    {
+      "label": "happy",
+      "auc": 0.8426718652695422
+    },
+    {
+      "label": "neutral",
+      "auc": 0.8901704283740212
+    },
+    {
+      "label": "sad",
+      "auc": 0.8859285733625755
+    }
+  ],
+  "macro_ovr_auc": 0.8576921471815527,
+  "recordings": 1142,
+  "provenance": {
+    "frozen_sha256": "a469359f68e336f8d9e46ff78472e925722ba32f0e64ad3e0bb5e177d033068d",
+    "trial": "final_transformer_k40",
+    "checkpoint_sha256": "886c2fbb77d7265491328fb58bab1056bc1bd1874b2e8f7bb557d1daa26f0147",
+    "normalizer_sha256": "08702e8ba0b8b65cb45df7bfbb48b3acbf69bf4c6cfcf12be2ef7b4c66ef5dc7",
+    "scope": "CREMA-D",
+    "test_manifest": "1def96a61ea87c1b0faf0bf38e54bda251f928c3f3aa6811b98d8ef452f617ee"
+  },
+  "scope": "CREMA-D",
+  "artifacts": {
+    "predictions.csv": "930717e8ad609fe385365a71c2d3d3c4f924f3ec4e15d206a1b6241312fe815a",
+    "per_class.csv": "6686ed57ee91280d46107d57a16bcca62859ca4f05bae55e47800c18c4fe7845",
+    "confusion_counts.csv": "a182807eea6e9377e1836f3d836115fb756b6c4fb45d5462cefbec1d60c5290c",
+    "confusion_normalized.csv": "1b50a3661f0357214af42b6dab2b2600c2dfc62ed32c881d3f7ae9f2ce3eef4c",
+    "confusion_counts.png": "1e7768c8e884d68aab4c76e8cbb64906116841593f769c3e222c1fa5324a3dbe",
+    "confusion_counts.svg": "820e1e6b0ba4c184640d61be2e48e4a54206e668fee64abce582740f4dc53347",
+    "confusion_normalized.png": "fea518b38faff6792b3c2ea483041618ec0527794110efda071d297b0e7bae62",
+    "confusion_normalized.svg": "ad8a2a49ba49b8b0a0126c5321b355206f5de74670de63b45f500c221d0598bf",
+    "angry_roc.csv": "aa14b22ad3e1f2c184a2df839806bafe83665e0f80e3bdb3b555b8dee6b5b8a6",
+    "disgust_roc.csv": "c50ae215830e5cde60263dd2bb9a5c038148cb2c5b46de62dd13c0af36a60048",
+    "fearful_roc.csv": "5511d523c5fda4626a5b903b55ad22470261938d9a0488759f86ae7e68441a3d",
+    "happy_roc.csv": "272b138c9e606485f638eb776f431f48744b3f5829e24c56211e8e787df3abb5",
+    "neutral_roc.csv": "98af57e7a9bc6e1f08434d399f9630160ea7d1e0c9f77d2d54b4e74727b1742c",
+    "sad_roc.csv": "d9189ebb1fb145b114107b979d864b15468eead748d8e72cba3d84bc58e27cbd",
+    "roc.png": "fff6c321e7df8f20838d2238fe574fc40bc6430d7d46fc4890952cc998dd917e",
+    "roc.svg": "6c5c106c47fc6421ad1abf64c801b1121850c29b86d2878684bf92bc5855b9af",
+    "errors.csv": "43473b3c630d5e96a1a793dad86cdeb4f71abc45d2326137f895e13883c5c78e",
+    "per_speaker.csv": "b45048682d88435c7c7f0eb1f442f9795c25f9ee896a95b3f179acf297896c3b",
+    "error_pairs.csv": "b809d7ee7f7ac7ea4795dea6a81e14f4370aeb376f439a07dda16e256b1dd79e"
+  }
+}

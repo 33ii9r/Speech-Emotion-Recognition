@@ -1,0 +1,13 @@
+architecture,bands,output_shape,parameters
+cnn_lstm,40,"[2, 6]",181862
+cnn_lstm,20,"[2, 6]",175462
+cnn_lstm,10,"[2, 6]",172262
+cnn_lstm,5,"[2, 6]",170662
+cnn_lstm,2,"[2, 6]",169702
+cnn_lstm,1,"[2, 6]",169382
+transformer,40,"[2, 6]",441862
+transformer,20,"[2, 6]",439302
+transformer,10,"[2, 6]",438022
+transformer,5,"[2, 6]",437382
+transformer,2,"[2, 6]",436998
+transformer,1,"[2, 6]",436870

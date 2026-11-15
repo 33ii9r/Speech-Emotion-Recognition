@@ -1,0 +1,4 @@
+split,angry,disgust,fearful,happy,neutral,sad,recordings,speakers,evidence_scope
+train,880,880,880,880,752,880,5152,63,CREMA-D
+val,196,196,196,196,168,196,1148,14,CREMA-D
+test,195,195,195,195,167,195,1142,14,CREMA-D

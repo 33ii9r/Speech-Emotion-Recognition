@@ -1,0 +1,24 @@
+{
+  "frozen_sha256": "a469359f68e336f8d9e46ff78472e925722ba32f0e64ad3e0bb5e177d033068d",
+  "study": "d68faf0d103fee2696adbb30f24b365e9c1a0a4b73fae25bcfbdaeb514201abc",
+  "protocol": {
+    "seed": 502,
+    "snr_db": [
+      20,
+      10,
+      0
+    ],
+    "noise": "Additive white Gaussian",
+    "power_window": "Mono 16 kHz; first six seconds, including pauses",
+    "headroom": "One common gain per recording across clean and all SNRs; peak at most 0.99",
+    "role": "Frozen final models only; no model selection"
+  },
+  "scope": "CREMA-D",
+  "test_manifest": "1def96a61ea87c1b0faf0bf38e54bda251f928c3f3aa6811b98d8ef452f617ee",
+  "standard_evaluations": {
+    "baseline_cnn_lstm": "2cf3a9540f5dbee7046094cbae9c2340756b2f41407c58a487638b8e14eaa868",
+    "final_cnn_lstm": "36a453103bcafc9a401af32604d53a60288168d0d3ec7cbce1092867c0cf6f4f",
+    "baseline_transformer": "46407b015bd4881fe7bb69473208c4ed1c1656d389b48d7ad4c91302d23358b5",
+    "final_transformer": "9c5e3fc78116c9dc7be59c55d0157885702d121c8129f54952a7fc4512d9b544"
+  }
+}

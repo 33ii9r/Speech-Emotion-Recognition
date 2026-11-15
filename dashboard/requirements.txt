@@ -1,0 +1,9 @@
+# Existing scientific packages are shared by the optional local environment.
+fastapi==0.162.4
+uvicorn==0.54.0
+python-multipart==0.0.33
+torch==2.11.0
+numpy==2.3.5
+librosa==0.11.0
+soundfile==0.14.0
+soxr==1.0.0

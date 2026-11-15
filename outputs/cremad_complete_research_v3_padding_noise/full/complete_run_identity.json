@@ -1,0 +1,18 @@
+{
+  "study": "cremad_research_v3_padding_noise",
+  "mode": "full",
+  "implementation": "4a18a087ebb90a34d9245fbcca97118daccb21a88c23ef98a2dc4d0cbd06f607",
+  "software": {
+    "python": "3.13.16",
+    "torch": "2.11.0+cu130",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "librosa": "0.11.0",
+    "soundfile": "0.13.1",
+    "datasets": "3.6.0",
+    "huggingface-hub": "0.33.4",
+    "matplotlib": "3.10.1"
+  }
+}

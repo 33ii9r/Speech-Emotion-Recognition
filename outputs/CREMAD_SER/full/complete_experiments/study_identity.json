@@ -1,0 +1,58 @@
+{
+  "protocol": {
+    "version": "CREMAD_SER",
+    "model_seed": 42,
+    "search_seed": 502,
+    "baseline_epochs": 25,
+    "hpo_trials_per_model": 8,
+    "hpo_epochs": 8,
+    "cv_folds": 3,
+    "cv_epochs": 8,
+    "feature_sizes": [
+      40,
+      20,
+      10,
+      5,
+      2,
+      1
+    ],
+    "final_epochs": 25,
+    "early_stopping_patience": 6,
+    "selection": "Validation UAR; feature size from training-speaker CV",
+    "test_policy": "Freeze both architectures and baselines before one cached test pass each",
+    "class_weights": "Inverse training frequency, normalized to mean one",
+    "cv_schedule": "Fixed StepLR, step_size=5, gamma=0.5; independent of evaluation metrics",
+    "preprocessing": "mono; 16k; FFT400; hop320; 40mel; 20-7600Hz; 6s/300frames; float16 cache",
+    "cnn_padding": "Valid-frame BatchNorm, masked convolutions and packed BiLSTM",
+    "noise_evaluation": {
+      "seed": 502,
+      "snr_db": [
+        20,
+        10,
+        0
+      ],
+      "noise": "Additive white Gaussian",
+      "power_window": "Mono 16 kHz; first six seconds, including pauses",
+      "headroom": "One common gain per recording across clean and all SNRs; peak at most 0.99",
+      "role": "Frozen final models only; no model selection"
+    }
+  },
+  "mode": "full",
+  "scope": "CREMA-D",
+  "manifest": "c8bbbd0f306eb5b1d96620816d0b2a141d81284e5b68de85fff2acda2c342b75",
+  "features": "561ba8d15796e343c1d9308f22edb5586d9947f51131be9563f97079ce9528e1",
+  "implementation": "1573c56cc00819dedfd9b1817f241782bcadbebeeec828922069c4cbed9dd65a",
+  "software": {
+    "python": "3.13.16",
+    "torch": "2.11.0+cu130",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "librosa": "0.11.0",
+    "soundfile": "0.13.1",
+    "datasets": "3.6.0",
+    "huggingface-hub": "0.33.4",
+    "matplotlib": "3.10.1"
+  }
+}

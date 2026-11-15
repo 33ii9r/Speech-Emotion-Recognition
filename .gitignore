@@ -1,0 +1,42 @@
+# Local Python environments and rebuildable tool caches.
+.venv/
+.cache/
+.tmp/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Local credentials and operating-system / Office temporary files.
+.env
+.env.*
+!.env.example
+!.env.template
+~$*
+.DS_Store
+Thumbs.db
+
+# Downloaded data, derived feature caches and non-scientific smoke outputs.
+# Keep split manifests, dataset revisions, normalizers and all result evidence.
+/data/raw/
+/data/processed/
+/outputs/*/full/cache/
+/outputs/*/smoke/
+
+# Local audio collections and archive copies are not runtime dependencies.
+*.wav
+*.mp3
+*.mp4
+*.flac
+*.ogg
+*.m4a
+*.zip
+# Keep the small CREMA-D fixture needed for reproducible browser testing.
+!/dashboard_test_audio/cremad_test_samples/1016_DFA_ANG_XX.wav
+
+# Exclude unrelated weights, but retain the completed study's recorded states.
+# load_completed_trial verifies BOTH best.pt and resume.pt against result.json.
+*.pt
+*.pth
+!/outputs/CREMAD_SER/full/complete_experiments/*/best.pt
+!/outputs/CREMAD_SER/full/complete_experiments/*/resume.pt

@@ -1,0 +1,449 @@
+requirement,template_section,file,sha256
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/audio_audit_complete.json,df6ac6e4dac6dff214b3f1ab79c8c3698d440624284af607a0759ef57236126e
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/audio_descriptive_statistics.csv,e3468c143c8eceb3181f31d917823d4f468e3e199d83f0c8a1d2e5570f6db7c3
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/audio_distributions.png,ae124beb661de7b52faf61d40a3e6747b82b4b472f2e591c6496a78c0af9213e
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/audio_distributions.svg,1b990606a5cf08e0d77c6d45326f6295106ee3cd9afa5125335d0c748688dcb6
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/audio_inventory.json,65560ecc9041b6f4022c028fe4fd03fb5d43c30a31ea8c3539d92c0f200bd88b
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/audio_statistics_per_clip.csv,36d05061ffcd87c8dec9c0a5dc286374c8546eea265eefeaf938843dcb2c1401
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/dataset_distribution.png,0523a4292f0b5693c2fac5e46b3d173f35e9306b89c5c4a787c039f04bf6a6cc
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/dataset_distribution.svg,0900ec9ebd4e621be38d1dc141498876ffaeca9e9513b98d593099dccf1f3787
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/dataset_revision.json,d30cb789b69b51af3fe4f10522b0374cff82929a0bb8e6e2db8697b51d3627ee
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/experimental_workflow.png,b713ab7e8427f179ef342238f647d34343a0d7e608d23ce9936dda72cab93a02
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/experimental_workflow.svg,9c759bcadb0db09275651517952bc5e094cf38f9f4c33842255abc970057550f
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/feature_analysis.png,6edc37ec30e60669c2e4e5ff78a53b79640aabcc8d36116f825fa7cf67cfb2d4
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/feature_analysis.svg,e86022c19302bbac045a2e0b478ac97e645d07f2c2853c6a5d4dec030b185fa0
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/feature_inventory.json,838631c0ab4ccd434eab75519d3ea11b2528bdc6c235ea3df5168421ca199680
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/feature_ranking.csv,ec52b44f7041099fad0848de5269765794afeadfea7465f067daf59869679159
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/speaker_counts.csv,baa6f5b5cab21d0b3dbbb1870106ae78a99157af5b6b742eaa863cfe3248b422
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/speaker_statistics.csv,242434c043e4907a5d456d65cdf57d24bc36a473a15edbecedd354b93f87101b
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/split_class_counts.csv,af3be7e5ac5644d813dbf3cb1f9eba2596d7b0a7d18b1039038ecf7dfd9dcaa9
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/training_band_correlations.csv,b2f508aa60916cced3f5c3d31a5f5071ad8d4f30b7b68c3e2c2a9fbbe23f986d
+Dataset statistics and experimental setup,5.1 / 5.2,data_audit/training_feature_statistics.csv,cd6f27dafe6ca521c9f93aeeaf5f4afe789266d13401dc884c1402ef07223aa3
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/baseline_results.csv,0cd89720f501131d891f83162b3f3b53a84b72a4e2cf92b739485767ec65eab2
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/best_hpo_validation.csv,f6621a5e7967e2daf61f756c304262c810da6919a93d983b05d27f4cf81d65d9
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/cnn_lstm_features.png,f25b899e60df036329df5c6565589a1479698ea39c9d9fcaef3573e788d8f941
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/cnn_lstm_features.svg,c36e875432ad2f3f4874c9660329f60b7272f4a0b0bdb2445e242faea5670716
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/cnn_lstm_hpo.png,beba9b4c1630227b7ca80e97b4274bd88d56f44b97a044efac56bfc9cfa01985
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/cnn_lstm_hpo.svg,e3a71268a84cb6c9c9c9174e5286fdbf6f34a95eada13e8619d9c4f364d80d77
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/completed_trials.csv,9be479fc3cc45ee6ac0767fba6f94f4bbe225923480a28abfc17f3d9f172f4d1
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/duration_errors.csv,63e080c73563a465c8839b646acd0482d0919282a0fcfa4421a9f9d7f3450bc4
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/feature_comparison.csv,229bd8fb8deaee610ae25b27f41525566d97a6facd267d808a6ebf3087e42a47
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/feature_results.csv,ab594411398253ce8b523e6fbe3baeab3f86921ac0110d9676160866ee7254c0
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/final_results.csv,159ea2173d194bbdba6947dbede9ed26ec8d199c04fcfc844cbc2a4193f57ebc
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/hpo_results.csv,e28f1bb326e2884b722d7150f90c49810e27e29f36f10e07ed683016a5f249db
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/results_discussion.md,af0bf8036513c26495e86d705c79e449345f799fd8fbd44a9cbc7e8175494135
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/selected_models.json,a440be53622e993880d07911365f25db7d4193b54b8f14519e238b55ec79bea1
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/selected_parameters.csv,1c8f444b235191fca5260225e13dfddf27980ba99f0ede35acea9ae47944687f
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/test_comparison.csv,be0a31b06c0901ca788dcd81bc1eacba253758cfa1b01d1c8e55cd3d003c2f0c
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/test_comparison.png,40a4d730b12530a13fbd9ad7c55ed35a50181117caaf316660b1c16890023fc2
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/test_comparison.svg,91f63e0088f61a81a12a9b8c43bb4be9e838f164cd82ccbc8507efc9e53cd1d0
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/transformer_features.png,8701df9e61115ed318da0121939a705ea22148b23e9e9f091f42632af898b49f
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/transformer_features.svg,0dc57458b1b6d03b2757a572a007422595b62c0decb26587814fc26a3554356a
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/transformer_hpo.png,675f3760c32a8d33853c0a1f42b68471ee4a7b471304811f76d497d7196db70d
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/transformer_hpo.svg,7701ec3ae4fc94dffc7cb209c453ca57e264084c13a025783fb8d65ed97456c4
+"Parameters, comparisons and discussion",5.4 / 6.1–6.4,complete_experiments/summary/trial_status.csv,a72c3126442189e7b1e3591d316a220c227187d39c0131162635a33c1ff7501f
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/angry_roc.csv,e46e2e77bd56dc4c6b3c59314dd1e7ddb27b95d14f34bd265fb8d03a7644c231
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/confusion_counts.csv,3ba693845f93f8e840c3c6eb7cfe0939bee14cbdbdaef468ccde1cf2b89e9658
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/confusion_counts.png,b4e288e1516c2094fa12aa697e9ce3291b4eb01e8607698958e5bf4068325017
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/confusion_counts.svg,b0dbb986e991dc9e2e2e4169c621046f7c4ef4cacb10da1e0759d8786f94c4c1
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/confusion_normalized.csv,970aa8095e9f7298baba63e9a01b242bbd84d3f5414001bba8ffabc4fd545d0c
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/confusion_normalized.png,5214fc74d4daf96eec9e51a71625cea3f8a6becb5b9601d6215a7723db6e229e
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/confusion_normalized.svg,9bbaa7d60bd9c824eb148efe3f3ec76e7efa6066dbac5c5b866330e1fe81d6ab
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/disgust_roc.csv,8b1cd2689e6c36a1632e6b83eeadeb162234314813f9fbe07649762a17acb18d
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/error_pairs.csv,dda362c8de49d5aea9e5842b47255661cd86b7d820f8b6f25fff02d62e77b943
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/errors.csv,d6f54b021ed2b8311c75f5c0a2fe46b4017129e3db4a25ba8fa3a5ce9024764b
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/evaluation.json,2cf3a9540f5dbee7046094cbae9c2340756b2f41407c58a487638b8e14eaa868
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/evaluation_identity.json,08557fb7142761ab1c384a9dbb49c99c65a360e68c21c0f3cfb0aef7aae54e47
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/fearful_roc.csv,0f29d662c669c7678cfc857fedf5743b08d7a7a5e9ae17879e797a7c08cfb09a
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/happy_roc.csv,050ff1496fd88b675744abb728d4e433190818080dcb97bb4001f5ca984a063f
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/neutral_roc.csv,efbad6093b237d91b45abfe3d80c5bf4d5b0bcb147af0a5fe8cf7f37c2f0c914
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/per_class.csv,fbb916f3758c31612bbd115264f7c3627f6fba4f33c13f0de5be8c31dd16e670
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/per_speaker.csv,ce583310074c5aa6ee134c1699f9b3ba3f14db953eaaa30be46ca915c46c92da
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/predictions.csv,db5a38b6f34f858e546ac76b58b899284fc27766b0ebcf7d6bf0c0ac0213fd07
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/roc.png,9173ed85187f965759db3b97806da17ba875639a1ccb4b798351f63e4152018f
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/roc.svg,96e74f7ad8f307454ca59f53ee9afc3e95c5c6fd19898c11c8c4918d9ecf961e
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_cnn_lstm/sad_roc.csv,d019ad0b26a91fd9cce1f80aa7d60425a2dd86aee91840e6129d382a1307ec87
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/angry_roc.csv,39ea877c724c8a58ac59f8ce7a18cb2dbb00f0d115d7b202437b421418500342
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/confusion_counts.csv,31a99040c81020115686ff1be477143f4bc8e07a7a114ac2709ec3f462cec2d7
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/confusion_counts.png,d90ffc2f3b85f13147ea2f172fb909bab7027a9dc8315f32dd3bf53e10e98ec2
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/confusion_counts.svg,ebedaa07fb350375b96be2ab50fdc9ce90db83b0fd73c8ee2477e9d54a1172f7
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/confusion_normalized.csv,61863ae84a8cc4cff79e29642e166edd92ed61b69a118e7b50e4d5715391b574
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/confusion_normalized.png,71a35203eb5412562332875e3a0141040a9cb28d43fa2fa347257a7cd9711cea
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/confusion_normalized.svg,0bb63cc5dc4e483476d35de7e157369d02b27ace931361177fcfeb30f7894c34
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/disgust_roc.csv,8d1a6d48f3717a4e3d73393a469ce7817b73ca431d9e2440285e220879dbbe1b
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/error_pairs.csv,5108e440a0f83370e53d64d3797b0dc916821d3c8796635177a4c1a80854336e
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/errors.csv,ee2d03b6fbe010e447d902f5a94222b879a488718922ef668cd244afb0dcf9d5
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/evaluation.json,46407b015bd4881fe7bb69473208c4ed1c1656d389b48d7ad4c91302d23358b5
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/evaluation_identity.json,6e0076940739afb540a2e7e3ae70fc067cb83ce6d9ca2cc70fc85841d9590ee9
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/fearful_roc.csv,71b93357f9dc8063a564b3ef118a409946bb45c575ace4ee9fa10ec3dd027376
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/happy_roc.csv,4d38e71bf83a985f5e7bbeac3c273e7ab34466f721154eeeed4e9c8036140f1b
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/neutral_roc.csv,784a49ee5cabf2f83d95343a0e8746c2a4ec5746058b0fe46c83120fb01e58ec
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/per_class.csv,233a35e03ca44008baf7aac76d4bef73f289bb3b3ba10487cb5f0626dfcc1420
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/per_speaker.csv,9e9e545a12486232fd1790b0eb089b769655418f5b5f0ee601390346613df7d7
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/predictions.csv,79fa183437712bcaa145572db886b76f57839a1c6438d834e27fbe63a573a12f
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/roc.png,010e61c0a56cc1f9ed7d5af93ce301ffbd054edad8588b11cefc0abb4366ce99
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/roc.svg,b854240e50f2cbc955cbfe5cd5b33ba8b0294e86623d7ad3d3b7ce3acf3d2856
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/baseline_transformer/sad_roc.csv,0b2980d8460db4e1c2dd4276ca6e2237373762a4fbd887d52cc003572373d18c
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/angry_roc.csv,b745fc0425cc3a606b1e8c871d4c6affed4f2e31859ebe58f8afcac12976cd0c
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/confusion_counts.csv,7c29237a2f2569beb0b1ee871d6b15defc75f30ed2781059d273766b43d91731
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/confusion_counts.png,b310633621a7cb392f87a294fd9705a5496d8cfd7ce77cf41fa19e7170d797ab
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/confusion_counts.svg,bf4a45cc83563f6524e908de968c4604297ecb880e1bf5dceb7e30b15c55bbe8
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/confusion_normalized.csv,a0c880f1ff6b2001f7b9b50138197c1f8cbf4de3845a9516fe663bb7696c359a
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/confusion_normalized.png,10d50a165298f4cf85a840ac033d3f9886c42e33eb5ca69dee71058a3e791cad
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/confusion_normalized.svg,acc5f6298fa3d6fd02d062031d6209fe95b65254258692135e0bd5690b5d5c25
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/disgust_roc.csv,b725c59b712bda63cc3bdf70a2815a10877463d1010421be4022c11d75cae1bf
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/error_pairs.csv,3b8b7c948e716642c2114a1d88cad050789a061e2e818280f51c528e2ba47727
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/errors.csv,62ab5722c1f346d23188084e983166d87b736509b311e289d4aaab46b1d19b90
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/evaluation.json,36a453103bcafc9a401af32604d53a60288168d0d3ec7cbce1092867c0cf6f4f
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/evaluation_identity.json,e4cf6a63bd24e1db6be51c8b46b78694399d41bd91d09e066aa6af22edd6e2c8
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/fearful_roc.csv,f3f74f398ca5a52607a4fc45438573207d8590910da4fdb82c79d139d19c976f
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/happy_roc.csv,16c7227e08d4942342ed8bdc2136da5f944f10f629cb3cba5562f5fa71bf7a27
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/neutral_roc.csv,94f03e9582444521f35b6c4c78f94bf05de5477408ac493ce3579c90c1f8ab4d
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/per_class.csv,8f070fe2f4dfb3d8528900d4d2dc5d2297f912aafc70944cf6983149192d4f8e
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/per_speaker.csv,b97b55e82a71eaa56b9253931f5674d90f58d9ffdc2559f8cf3f28d75c2123b4
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/predictions.csv,45ee672d1b387ba1bcdba4b247eada64fb930f0a5c878a2bdc6e3b361bc014f9
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/roc.png,335a640fff751a8f0f280669c5e5df213090402febabde91c0a4815c07a434a1
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/roc.svg,76773664b61e11053dd6c1824f0aa86c5af340dff18ebd9f81618bdb237f94e0
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_cnn_lstm/sad_roc.csv,eb6ea3367226ac80792c7dcdb303d8e4e446591d923891e3fd151ad9d3d8dfcf
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/angry_roc.csv,aa14b22ad3e1f2c184a2df839806bafe83665e0f80e3bdb3b555b8dee6b5b8a6
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/confusion_counts.csv,a182807eea6e9377e1836f3d836115fb756b6c4fb45d5462cefbec1d60c5290c
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/confusion_counts.png,1e7768c8e884d68aab4c76e8cbb64906116841593f769c3e222c1fa5324a3dbe
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/confusion_counts.svg,820e1e6b0ba4c184640d61be2e48e4a54206e668fee64abce582740f4dc53347
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/confusion_normalized.csv,1b50a3661f0357214af42b6dab2b2600c2dfc62ed32c881d3f7ae9f2ce3eef4c
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/confusion_normalized.png,fea518b38faff6792b3c2ea483041618ec0527794110efda071d297b0e7bae62
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/confusion_normalized.svg,ad8a2a49ba49b8b0a0126c5321b355206f5de74670de63b45f500c221d0598bf
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/disgust_roc.csv,c50ae215830e5cde60263dd2bb9a5c038148cb2c5b46de62dd13c0af36a60048
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/error_pairs.csv,b809d7ee7f7ac7ea4795dea6a81e14f4370aeb376f439a07dda16e256b1dd79e
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/errors.csv,43473b3c630d5e96a1a793dad86cdeb4f71abc45d2326137f895e13883c5c78e
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/evaluation.json,9c5e3fc78116c9dc7be59c55d0157885702d121c8129f54952a7fc4512d9b544
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/evaluation_identity.json,7a10a7f6158b548c26479ac695fcc60963f9c25b1b4892fc00572ba0d3bc1cdc
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/fearful_roc.csv,5511d523c5fda4626a5b903b55ad22470261938d9a0488759f86ae7e68441a3d
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/happy_roc.csv,272b138c9e606485f638eb776f431f48744b3f5829e24c56211e8e787df3abb5
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/neutral_roc.csv,98af57e7a9bc6e1f08434d399f9630160ea7d1e0c9f77d2d54b4e74727b1742c
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/per_class.csv,6686ed57ee91280d46107d57a16bcca62859ca4f05bae55e47800c18c4fe7845
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/per_speaker.csv,b45048682d88435c7c7f0eb1f442f9795c25f9ee896a95b3f179acf297896c3b
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/predictions.csv,930717e8ad609fe385365a71c2d3d3c4f924f3ec4e15d206a1b6241312fe815a
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/roc.png,fff6c321e7df8f20838d2238fe574fc40bc6430d7d46fc4890952cc998dd917e
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/roc.svg,6c5c106c47fc6421ad1abf64c801b1121850c29b86d2878684bf92bc5855b9af
+"Test metrics, ROC and error analysis",5.3 / 6.2,complete_experiments/test_evaluation/final_transformer/sad_roc.csv,d9189ebb1fb145b114107b979d864b15468eead748d8e72cba3d84bc58e27cbd
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/0dB/evaluation.json,e3bcd963eb79ec58751c2a45b1f404b2c87258db59d96a45e9003303be1294ed
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/0dB/identity.json,b83e1d2c50c7cab92b6831000ab8eec576d653bd2b69f65e1ea900f3c70b0b21
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/0dB/predictions.csv,308e04ef4bdb5cc169f5fc0de965bc76cd2c69e458de5bcf42709993eb7ed6a6
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/10dB/evaluation.json,e0b85b2d3739b6dd98e9eaee622199dd79c22b52a63c08082f23ae6e57503928
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/10dB/identity.json,79708d432aaa120f19f8f0c81d050fd6d9ed739cc682caff14e0801562403606
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/10dB/predictions.csv,176b310e79dff68806f1f6ffe93363516b3408029aade5986a881d53db4f335e
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/20dB/evaluation.json,0660d079ed44435f0cc5adbddba76cd58afec65d7d65f3c9812046b0385e0010
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/20dB/identity.json,6a2ae094d9c9256c4029247de902468c1239dc709cc86ad733f434cabc0a0aaf
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/20dB/predictions.csv,4ba68a7d962a24e4b7e8d978ddf3b187b49437439d656f7968709c98c13ce384
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/clean/evaluation.json,a8bd7541e7591cf0f60fbd01d6af332a66e3df2d3f9875e41cd1bed92ec7e3cf
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/clean/identity.json,0eed321cc7f76d7fcee7fe9e7b2e3e08704d8fc0c98ef61847c1de048bffbdcb
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/cnn_lstm/clean/predictions.csv,7190094653da461dc66751cb781fd71fa3ba59088410730f39e0485ab2ed5241
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/comparison.csv,b1a5b1610a69afbee218ece8dfd4e4036256ed75039f476a96cac85b9742d1a9
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/identity.json,005ea6e851620a6f5e788db6ee7bc5d44a9bfcb49bcfc15382dc056c270fe8cb
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/input_metadata.csv,51b41711606ec4084d79c1132a35ef1f2696dd43bcbc588ac9e21b642fcc0e51
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/inputs.json,eeffbbcd98a61c404d64ab60c6b19aaaf901944abfc923ec1bbdaf31cab5b4c4
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/performance_vs_snr.png,bce541d26838a27020763e5e586cbf514b225879f34acec8e3eafbc0acb4e8a5
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/performance_vs_snr.svg,0b66bc59c21483d92a924834797e2a44b521c142f9858bf16b14f2977b308239
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/0dB/evaluation.json,1923da69f112479754cc731e4e30223f90d7b491761da9b6b09ec6fa440063d9
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/0dB/identity.json,7749b01a30d27cdefd863fc16492695e8044b3646ee94531170954726c5d14bd
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/0dB/predictions.csv,a29ed80edcb48c146af5a8122b5537436b2a955785cc12664b073a069c6605bb
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/10dB/evaluation.json,ce850d17f99a1eb9699f392b2112cce4c39cefae42e3c74aec1ef7d6e9a2067a
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/10dB/identity.json,6ad5624615aae90a40ed2f0c4f91d919fbdd034d1c6edcfc6a70d50a23ab5932
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/10dB/predictions.csv,83caabb70ff99acff04dbd0aac87724484d1b127a170bd9fc942f9f6c566b5c1
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/20dB/evaluation.json,686800744381953e24325ea84a326ce2aa5e8b2599f6eddfb298fd2a3e7fe65f
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/20dB/identity.json,3cf798b5917e318bd79987a92ac56875921737acbf7c7941d9a15d18a0e57f9b
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/20dB/predictions.csv,cc644b6be4ae9545eacb08544e89c87ec3bb6608d92578fbddc58c83c867428c
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/clean/evaluation.json,69fc8185b6397264190178578e945bcd040d5c74ecb9ba07a1c406636af14397
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/clean/identity.json,6d3a3fe5cc1eba3eddd50b837833692f894626c15f44f5c565d94e9bb6d18f8b
+Controlled waveform-noise robustness,6.2 / 6.4,complete_experiments/noise_robustness/transformer/clean/predictions.csv,504a1f98743ba4983a28fe4131ad6fcb661bc04108216240d027223b4bc47619
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_cnn_lstm/learning_curves.png,2b2bbadb3768a0abd3a0a53344cb47f4239a38b34b31e2e14a284304b15a0f45
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_cnn_lstm/learning_curves.svg,3f2e29dee998fa5f2b968665d2c8ed3fce901b8eeba8496f8128e8aca53a48cc
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_transformer/learning_curves.png,b5dd57e21f7474deb2fa8c930e67bc91bafbb040561d01a4cc92cb241bf2958e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_transformer/learning_curves.svg,1fd17ab9e7c992c6296832929704d07042b2c8f54be55f1ec5e0f983542d300d
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold0/learning_curves.png,5d491edd8b5cc5718d1291e2690e0e3cdd9e06fd5c25bfbc74d7c03b038bf4a5
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold0/learning_curves.svg,b00d5d076acf293bd00881fc1dc5d0b9bdbd07ced51c04d829f3cdd1274a7776
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold1/learning_curves.png,f72dacdfd0ef50810de8a478bf2e70291f48af70ce93f4b01e211bcedead57b8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold1/learning_curves.svg,e9b0d9de9e78c5faf96ab7aec8f25119e38215de289c61dbb12d080ae10ece91
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold2/learning_curves.png,d2ff3d58f96aeb834ea067ba36d1cbd5c4cf2cfe5cb7bb46ef213f043239a416
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold2/learning_curves.svg,3368bab4368e266fcaa74c0184f976dbdeeffbb5859c9848df38af7170ea7eb4
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold0/learning_curves.png,65fcbd1cdc8fdd5ddfd49ca12b58001b6c3eb8994ae451860fd43653ff4cc7d2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold0/learning_curves.svg,a23d598500366bde31542dfa0e7cdf99e623a7a33d524ed9758935295fa08e79
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold1/learning_curves.png,39430be657d5d925c2c63d34bc6a0d10477b5b70ddaddf73a6200731d2484333
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold1/learning_curves.svg,95a27a1ae0acb7c393060c54373dec5fdb4e7ef5b3e16b7a7e136c14826e20fb
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold2/learning_curves.png,2e78ad28a8ce200451cb3a4aaed24c4432bafbd9ac09ea02d537814e14779cc0
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold2/learning_curves.svg,24d61a364b27c02a242700b68c1c7e6d71b87184b86d863d9d8ae41a4a131568
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold0/learning_curves.png,d9abc4938a72f9dae7bdead82c0ad4c7c601ae282870d23f10c63af3c096d51a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold0/learning_curves.svg,769ca03d6c700b080c4441822bc132c2ecea581974c240865d951dadcd6b7594
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold1/learning_curves.png,b292e7cf7987d21604bbd4c6c5aacc2cbde8c49d95c091367051cf6c0ebe82b9
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold1/learning_curves.svg,79fb99d62a8892b74cd71195e85044445a782494e73e4c47f3155d2e12f8cb57
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold2/learning_curves.png,16168e498455cae4f3358f32b8d5b0532393b8fffba599cdf5c8bfdfb569d2d7
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold2/learning_curves.svg,538b21d4ddea0de78be62d6d0af884ba4fc482c3bb76331ae38d6c2fda54df2b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold0/learning_curves.png,a247d0db2da3cade74b8e8c1a653ed9f0feeb0c5814731abbdfd7cc8793c4b83
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold0/learning_curves.svg,b264910f456e19f62c0f2f8f59e9050b20acf182124f9baffafb7bec23b2e699
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold1/learning_curves.png,e18f6ab07936c5de02ae2aad34664fea1ba28a58a252637e7d2f3b964ee3c735
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold1/learning_curves.svg,afbe8374f78a54f082daa9f8036baeabbed1baca6f29b0a57d9348dd3621cbf6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold2/learning_curves.png,08c23bbd081a320593e4ca805b855cc4bf67b3c725fc8fdd6a2090777b4db696
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold2/learning_curves.svg,adc50ae99b001d2efbcb82e4247821c16111cf955f9041d9bbea9ac11853caef
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold0/learning_curves.png,af44b4f677562bb93d6da35ee59a6ba5254754c5650f8e267e983b3f04f6e134
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold0/learning_curves.svg,c044d4e17d99d6b1f8f1c31c6ca4809156f13c11a943b8e9a2e39e89668437aa
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold1/learning_curves.png,898463a5b1ff7310d1a81ed3f8848afd594531204efa424510162bd7747ba182
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold1/learning_curves.svg,d2132d2ededbdca6d1b38c1842e9c9afd4f172fa288f511c7687bc0620d59a79
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold2/learning_curves.png,fc976cf8aae862badd03adda1c17ee270d60f4bf39f4c2fabe4ac5f9ec35318a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold2/learning_curves.svg,a6876aa759c296eeb63abe09faebb6e32288741332fdf6f92ee6be07b52c8580
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold0/learning_curves.png,2b6fe36dce2f23101ee0dd97247626f1bad85f029196634dab817d9c4789854f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold0/learning_curves.svg,8fd08bb596474fa26b2ac6253468a50b88d0e8b44e5c39da4f0eab166fda98e5
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold1/learning_curves.png,889f4c0e37dcf99e667557a87f6e98296ee993f86efb280fe79eb254ed7069f2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold1/learning_curves.svg,4753a4403ed048b6c6fe64a6ba78615499d80237ee78f07d3c130529fc6003e3
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold2/learning_curves.png,d9e3b8a5d42703982ae458b4a56b03019f172ee184acdc7bc34f75c2ee5d71d4
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold2/learning_curves.svg,c1f255d1da0ca8414e41c834c485a6e636d487cc10c2f18298b5e97d3cac5bce
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold0/learning_curves.png,033e75a88c5fe75b1c88ee77795079a69a937dbc55f2bf40cb75b99d08cb46f7
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold0/learning_curves.svg,9b9d339f8934698f5ff1a2c0b28b20a35f12c511621ba6c844fd7c8dce082690
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold1/learning_curves.png,c81313ba8cafb80857eea1f6f908ec129890253e34b8583357b0883940b4553e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold1/learning_curves.svg,ff04a6b8e515ad7ff6eed0e26be9c4ecac528264a1f01611fde4f9734fced3ec
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold2/learning_curves.png,5d90eedbc47c25b263f387c7c5132c89fad8b302f70b935f8bd3f1273ffe3e48
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold2/learning_curves.svg,bb60a7708e6f6795a3dc7f216bae944d1cdb2742bb7c390b64c449e9bc4b5994
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold0/learning_curves.png,70e657062d3ddabcf40ff5fad5bd25b19cc2ddbbf55b6ac15429ff13338b13e6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold0/learning_curves.svg,01fae11718a426614ded2b72ffa44c2599e675e5812d8e45ee64ee2b288bb7d6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold1/learning_curves.png,eaa765ea8fbc952b146d3fe34b514871c9f7c780b7c9a48fb2dcecffcd882604
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold1/learning_curves.svg,85f90e8fdb7feb04979256b05b452b8aaaf66f69a9c7b2cf7fc4410acd723e04
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold2/learning_curves.png,b5d912638418db778657af40190317d2e73ad92e50312af7b32a4d911e81726e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold2/learning_curves.svg,ce3877b82290f69c1ddba18a3775e24ec833d419ad984eba59d1c02c580b2a4b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold0/learning_curves.png,3a0949e574f96b4c49402b1653c21a085e1bb586d87f254bdd8daf4f1f856570
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold0/learning_curves.svg,5ae2a761a258ea678c392072bf054614b064520f111e0df28ef588c6396a89b7
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold1/learning_curves.png,1f460848d4ce06e46b871756ac5ddf18c2be348dd9eea97d5227f6dd5e3b1909
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold1/learning_curves.svg,c85325d4b27cb7150d2d9423b0ca8e1ed781be00d85997f386537fed1c5749c1
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold2/learning_curves.png,8e41105fd6eff0c1af19d74355299a202f4093f627414fcdd485c7783b93756f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold2/learning_curves.svg,fa03f64102367b4865ef36559662b100d89a6b8c006ba0b694a82f84503f2df7
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold0/learning_curves.png,af50dea7393bb7514d564cbd6b3c275d6061ea355fa2d188dd4c40e37c4d0c75
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold0/learning_curves.svg,b09af5f57ba0207f49a4c30ae8fabb8b5922313c8d557ff59474e7d0a18f35a6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold1/learning_curves.png,5396a2babda2eabe18474b73495a946cbf558a67c39fc8efd6d914d2adeca288
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold1/learning_curves.svg,3cd4f25426cdcd3ad3ad071d9fede2a262153f852b6ca78a2fa36f51c0f42d30
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold2/learning_curves.png,701be461337a5cc548021350052cd2da8fe7a6bcb28a4d1808fec94f3ee77cf1
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold2/learning_curves.svg,e1274837ac154fb1a88e89b8b406c31dd6aa779ed29cfa7a719934e690b0f76e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold0/learning_curves.png,2441d0da7a2a5c512a4a372775e06216f04aec07453b227f892200533350fed0
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold0/learning_curves.svg,758313838072c9c40ecb37e95e5b5f6e7f69eb8742b45bc7af6c2c35827f1624
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold1/learning_curves.png,df874589fa17fba3bf16cbe24a2d6e4ebb7acd64ecb08a2bbf2b5416a6c0c0f0
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold1/learning_curves.svg,d3305f9fbf5bd1fe7c41b6ac0ea7174d7f5a7ead78920b553203a1ee3307d3c2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold2/learning_curves.png,45eab73391882b8f70e7f88c07ea5da2ff0ededc4362906b459c3e14b7755885
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold2/learning_curves.svg,e53ed05cf75a32fa038a3a34c3deeafb41338814d6e09b81e7bb9e72e282d1c5
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold0/learning_curves.png,c5c080289ae469a73407476f10f4d0eef27579e50e532552918cd1952b52e2db
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold0/learning_curves.svg,694ab3ee167766913162f8ae1f89e105b632c6da522dc26228484743e213babb
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold1/learning_curves.png,cd3dcc0e8a02273d9dfac27e6aa307460ac66e57c302b0f185b2ca11dc4cb854
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold1/learning_curves.svg,fe6e567aec6f3c6bb30fe71663ad346b8edbed9612d907ea92dbcfc696c6032e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold2/learning_curves.png,515b69b45b9b2791db9a62fd231bcff77f2df484f04871624d291c4eca8282b9
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold2/learning_curves.svg,2fefa2ddb5f3c2819a21507a972e0bebb0400fc03312fb55483e7bed09d089f5
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_cnn_lstm_k40/learning_curves.png,70c198001a082be8091ed811ad43493df4c11991a4c886e4281c9da55a03ad90
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_cnn_lstm_k40/learning_curves.svg,f764ece13b99940a7d527b50c30702b130c55f905f779cb7677e3f9f2afd1e14
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_transformer_k40/learning_curves.png,b16e9b0472e4ebb81508b93a0504e4e8402745286224450df31a72d7a340a502
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_transformer_k40/learning_curves.svg,9b612bc40a1f0f76ee6ec10c4d820bd071b48fc17718df28551708be02ab242e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_00/learning_curves.png,dd7aa604ba85142d99ed647923c675d3d02687dfe5bb8356c3c365441dff874b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_00/learning_curves.svg,0bae74f682afb343950727626c460fb1198d0d00fcbca6778aa9065cb7b5c0d6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_01/learning_curves.png,2abbc47b7d5b3fc9fe4fa1ad37c20ed710dea5d7e9c2d6b58c945925f73d1def
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_01/learning_curves.svg,f3e34742c9cf6b8bc3bf1f070d282277ef1c8c85d7f5c93a63b89a04bf40d16a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_02/learning_curves.png,e638b7b68e18c3e2bfd1230d24b15c081cae905530173aa8d85d9d5aa024ffed
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_02/learning_curves.svg,3d98f9f46ac066d9c3b2e1c9f54803d385e538a45e8889b0cbc2d7ef705e7797
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_03/learning_curves.png,40f17d7d206d3c6e0b73b9470d728b98e56d13e984e1ff94095d575e98897bd2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_03/learning_curves.svg,28da7fe49f5ca60e6c092ad1569f1b9069a56cb0fa2f6baa697e6b1f192ae0cc
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_04/learning_curves.png,1775b5dca68ed934dc42a6ccb09a186a93370addefbbdd8d341aa5c9c158bd3a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_04/learning_curves.svg,f0637795e7ee3dd737646bb319d2adb85607664fd964b746b9a69ea7e1483ecd
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_05/learning_curves.png,81149f88e593674f01ff981d82f2c8a4295e640c56d65eae494fff5abb7aaf96
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_05/learning_curves.svg,3c6caa95b4a13a29f17c170e9a2eb19a0f2ea710d6f8b705570ab240572a66ce
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_06/learning_curves.png,bdd3634bececc54b89622ae27d63837b039df40b4feb034a0f52ced1d40becf0
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_06/learning_curves.svg,924ba6e2cbf5875ef949fdfffa0ca95430cdec837e62dbe79537832cf48260e2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_07/learning_curves.png,a1774d2c3a487031e541bceb62043772edbb806fac62eccc3c8f12a29b128e6a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_07/learning_curves.svg,e6a398b98e513548e622fa5e0142630d375b56497f6b6b3b4cee901027567b48
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_00/learning_curves.png,f664b8951eb3c14a29f34830c89ebc7b8be35222cc005ff6069532aa4ac93b79
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_00/learning_curves.svg,8c56fd3284f5286e34b8464a40b738ebdb1de7ecc1b0da210b0c6f7c80162704
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_01/learning_curves.png,fa292c347aad1f2e1cbf5cedadba1d094ebf2c861817b4b08cd009840dce52fd
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_01/learning_curves.svg,3dc23589b1f336b80d4e7bedc826a51895a4a823463d0d425ed318fde16da4e2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_02/learning_curves.png,77957bfa325bb6370800f6979ae96962a9fb90a6c88864cd6e44420de129e03e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_02/learning_curves.svg,f3dfc49801c33bf758613d05ea16ecd797508d6c505ed82287ed345e435bbc0c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_03/learning_curves.png,75ed1add55997b2b23e544fea8701d53936970bbed7bca18b7e2e854b8b4f853
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_03/learning_curves.svg,6255fbb8391ef36ab0367e71a142ce0fd7d635e316a48a9a9328d4abd0dc4e0c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_04/learning_curves.png,b98e1048bcc99d47228f0748cd34252b45165f5abbc8365ca5e0cf641e888375
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_04/learning_curves.svg,116e19eab94ddb7e2a6c79934c96fa4c3c10d2f0d4910ad3f4dce5ac7d792366
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_05/learning_curves.png,9f0ba14e731372e41ed04c8b30fbf2b4550f9e1bc837775b38d786280614635e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_05/learning_curves.svg,98eaf337f3359818fe797e97b857cdc312a9dd8a7f92b27d92a2ae9721305f4f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_06/learning_curves.png,af8df44b0d146c6ffb5232c9b57a686c846a60a64ee05296090304c43d8e6339
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_06/learning_curves.svg,638432dc23c25fbbf2df166e8cd7619eb9afa56e75bf754cb561ae994f44227a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_07/learning_curves.png,dbf83d9f20445e1837a42f5880ccc69373fe188aacec384cfee9d6e832f521f8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_07/learning_curves.svg,8cecba7c91e8f4553948f8c52aeeb497b94b2b8c5f7f4818b22a43406b11114c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_cnn_lstm/configuration.json,56f7ab14e58fe225cdbd4815222a520fffd0071377258a804571ec334cb0389c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_transformer/configuration.json,c50b4523d240deac3debb22c81ef9558ff5f3b7815ddd732531a1313306c7ee6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold0/configuration.json,30da07b194d9f0bc272b0ecbdf58bf9d785904c3529fcca2b32019caaa6c564f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold1/configuration.json,e3d5d630310f8fb41339cbfd3288e480b12218b4f229c749e3fd3fe0903ed981
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold2/configuration.json,325f6159838bb8d4d737ad13e6da2590b07c61954577acfb090a45e57088daa6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold0/configuration.json,b483d08402a3cdcb6f1a189854b030cffa5fa6c18189ab4349ed040f2a009b75
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold1/configuration.json,8f0b1400c3f20736eea35343fbbc50aa051cbcc029154e1a645b40e9bbb89d03
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold2/configuration.json,be12c5928fb1f1225d9204f60a529ebee81602ebc8658464c568f3c51f937566
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold0/configuration.json,2f48c6541436dafeb6db8d41d5d7869fa98b0fac1827f83d88bcbd871c61fa22
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold1/configuration.json,0c112698e2975c52167c135e05cb85fccc9db4508a8a23cd45106681d8dba138
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold2/configuration.json,95d15eca732100eda40f4298e2a6ab9f340fc4bd25c182c78fb1f44e147f9e8f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold0/configuration.json,3453fb8d236be039e64061eb20daef7bfe016cf894272da0da326fead494680c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold1/configuration.json,168b1dc13dae4eb3afae5c0aee070818a2ceeb40b8496f82e9473635043328b4
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold2/configuration.json,9a087766f5e4788f12e49642a084bfe414e9c0c11f98648756230931bad73a9a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold0/configuration.json,961d572506507aad89b2e8a425919d1c27e37b001c6bd6808028b9f54a168b49
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold1/configuration.json,d9d70d6a2a63f5dd6b395e2bf4800ab06f70668443938d0beb448e0ac304df5b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold2/configuration.json,bd4663e519a9a73c16a7b00f26cccb4ee71ea39f978f9b0610cb48422b8043f4
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold0/configuration.json,c6104d1201303dfbc31dd65439a22b391754cb6e782d7c7bc7ad3c26d1d84070
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold1/configuration.json,3377323939c4af5bd620ded7b1667ffd1a1ed62503bd4ec5de44c81d6475977c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold2/configuration.json,8342ae6502344b11a0dcbf135ae031a024e110e0d3ee3f1c24b7572354319f53
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold0/configuration.json,253699ed6b6234673ed54ba1beb7b1c766abd4a3a6756ff2c2706e26c6edb90b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold1/configuration.json,4e54404fb3b2dc077a43046d5b6a202fca8864c673f7c427357e9e206f084c89
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold2/configuration.json,793e72402fb9df056905d9ffec34485414112efda2ee24b053ef3a4705c81b1b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold0/configuration.json,a8310d97f0e3b4aae970b9399fbbb0955e51a2fe669095652c9b96902cb94500
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold1/configuration.json,4becf6e8889ddf4cabde2c333e20a7d56c6ee2b41922f8ab02a8873fecfcc531
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold2/configuration.json,771ec02eadf9ed07f3dd4ee7339a1afd94dc8b16befeaac5a14e813bbc743266
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold0/configuration.json,01a41b0e934861afea2c9f33c20e3028abaf8efce16f9d18afadc971210c00c3
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold1/configuration.json,3595806047e6129f03e7e224eb488cecb90ee47566d1a6fbd2c7a39e57ae53c2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold2/configuration.json,894c54b9802a78b0c90643e1a21e9da83f068b908289767aca7f4bc491ba8397
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold0/configuration.json,4c2d0bd851fe20bbdc200d1f29f7b209d72ad8de5b41bb0c44fdeaf0cdc4e63d
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold1/configuration.json,11772eb154ba6a2cd2163f1d40d5acef1647e93cc2c45b030189dc8da691a6cc
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold2/configuration.json,3f5ff0244350cc25089853de36e7548a2df805379fad21b47c050ea31c318e85
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold0/configuration.json,c7b1992e2ac681b5a87ad0c11a107e0a9a7f2874fd96bdcb7fe579ed2e4c3ca7
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold1/configuration.json,7da5678b51a44aa14cb95cb5c6792134c944afbfea00474f2ccf53c1b6679dc6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold2/configuration.json,3a05c0a2276c3039d397114888e876b8f4cc3403ccf817e6d83e0d7d05fabcd6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold0/configuration.json,e81f64d40a951c96614bd97c225e8b3c45a16643da85868036d481c62cd16f35
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold1/configuration.json,5b2efb3965e4647a89fe87f935b9503ec26fa6127f8bbe2ca0ca86fc645d59be
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold2/configuration.json,f0fc64c4c9f6c43548e85c65142b61121c0bcd31d9ef9866bb35f085e2ea64e9
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_cnn_lstm_k40/configuration.json,bf516a0150f50403a43c8b202192552c3f1d996a8170a982a6e851aa0b4d3092
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_transformer_k40/configuration.json,60ffb0ef6530906236e4cd8c6230435616d4e1276b2bb2d625087d5862df82a4
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_00/configuration.json,098772958abc068a9422b0462ffcd2d3f5bab623ff7e2e1f80d2787b584a8861
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_01/configuration.json,6f15c9c6cf97c31f9b6de3f2b0c0a4c95d7b2dfef291a1711e7e252cbb702c16
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_02/configuration.json,6f217114e62d7ba8fd54fb9bec277dcd5c78032eb2eaa38bb2526e26710828f6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_03/configuration.json,97979fd764e0732766a27d3b60f40a685105311f1b96f819808571cd8944a2d0
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_04/configuration.json,1a9758d35bd8f867db3cfee30d439669edb85e6ec6505ce610ed7aeff17802fb
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_05/configuration.json,6727628faec4c74f42d650bae033701699e29744893f49fef9d3a04be76278c5
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_06/configuration.json,efd0c757c8a3d650a1ebfe31c3dae96be5a7d43944ab5857fe867a718481a86e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_07/configuration.json,043faf76e59ef13e0928353754d1f4e2cf5dad516d97d1937203397080b4198f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_00/configuration.json,bd86ded482a08aab183f349d9f40d6ce0460e9575542494917554d69d6aca323
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_01/configuration.json,4897d92a9ed1884ddc88e1c9ce43bf65abc1b201ee7b8fc3947d81d5d76fe872
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_02/configuration.json,179d457f80dd49472bf6bfd9f2d6f8295767c74b5bc99dd7b97dc8ee6cdc374f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_03/configuration.json,dbf3c8ff1218d7927b3531e643d2706c7b2285323ffce7daa8015b5ed1bd1326
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_04/configuration.json,4557bdaa1a5881be9840afb5ddce56347b4ea232124e68ce5aba8954d3a4cabc
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_05/configuration.json,21f6d7240fa518ee1173092a68a5df60b14eeabd53d558960d554379f0bdcaba
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_06/configuration.json,f5f66fcc59ae456132268cbebeb4383bc6bb0ced33dc53d485309e6154bd19ec
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_07/configuration.json,d9ec3d64b366684663da41dbd3ac2b0604d878996f4b65012623a67152a47847
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_cnn_lstm/history.json,7b1419eb2694324e6a2d1eaf9df57ccb7ba7b25c1103d9d455bc70ec0a9813a2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_transformer/history.json,ec507f4092f73a19500bddc3559c4f67dd0b3b0366645d7d0e51b85f1ca9cc0c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold0/history.json,52cf86ef28aa83705cd9ad00475503992e179bbc4476b09e9b4427252ea82a20
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold1/history.json,619b45586c478ad8e9eba6fc232474f405a1ffc313234b776e2449b44f8af5b8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold2/history.json,08da5fc12797e0e3415dc9cd35705519f524d47f891adef955a45316d3e6dd14
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold0/history.json,2be245070cda46b5236e091bf9c9312a28a46071aa69f7bcb684ad2e18225df8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold1/history.json,76ba3a154740c85bc621a7cb74366d32c67218a021ee62f3b8c40735f8a13e71
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold2/history.json,75db55ef519f78a6314a4c7bed34774446393ba282172449229a2dccf54d9507
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold0/history.json,ce2ce7b244893a5c0aab51ef7e2b4d4cbe347f753047c217df6fb2dcb708373e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold1/history.json,f04eacb01a37798c20f25cefcfb645d15f402910419942d625d09f1a8fbe4022
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold2/history.json,e6aaf9fa9cb87fe538bb3dd8bead4be7ab7b49d978b2d6f40fa70749b48a3efb
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold0/history.json,cd6381bcd1def463a6bc099c6bb533763dbbbf18b98f29e42be5036be3ea4458
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold1/history.json,ba539765ab279c5a913e4412247e7a98fda7a0bdb3c7b613146677d926a2309f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold2/history.json,e2f864b5fce0fecd7216888b995ec80cc2eedb3d7b59e7db1f60ef387c3a6212
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold0/history.json,0ac98287387280c0958085cb89b122c655b9912b45a22297916d602717809600
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold1/history.json,939f6822658b40409c4f2f58c095f4321098d3019bfdeb058e821e31edca9bb6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold2/history.json,4c59b10656fc976f31ed284e7f9e1877725a4a7c57c55edbe21b4f71dad29d30
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold0/history.json,cfcb9ea98fe9b6a1e9e5ee3fb5acbaa5f37ac484a36bbc4bfc5604e1bf27a088
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold1/history.json,61e842cc9bd72db474d0f9ab00f3299b4830e2e6314943335ef8a96b62ca7d88
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold2/history.json,ca84635841697d7b6c9fe035a26ef06fcb72d96bd860e2dfcd7bea1feb2f13ea
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold0/history.json,6f35f1a21cc8c95bb3acaace98c8a24318abc8aecf582a7c6a115b41a783cb5c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold1/history.json,0a994ca67430df71e8dc9166633e8db8967b559855be826b0ff17f12a1a03675
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold2/history.json,3ce28ef5c812aa877ae8276183fdd189855a926c09e021d136cf4c836fca5771
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold0/history.json,c459e820c878cd24b2140dedf4aa4367ba3bbe160519a64ab0b9bd21bd0f425d
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold1/history.json,ab659d68df4351b381fcc779d5b96a0ecf1f6e7d0dedaf7f3072d29c54975560
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold2/history.json,130c58bb5cbf2c0cffdd0f607b979bb6ebc041377bb939c03423b0a911a434e9
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold0/history.json,7f25af7b8695805d366dc7596b6e0bf324d76e2957ef209265d2f30bf1221512
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold1/history.json,83e0764acaa928d94d21dafe5711fa7d749d26b3abe8de224890109db00ca3a1
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold2/history.json,354f1a10050547caaebf3cd01015b32e19cc3d9dff729fb91e7c5a12513db006
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold0/history.json,6f4612de1230b24224c445505e6764aba36bb4c8c8c38021725c45cf479543ec
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold1/history.json,158e51ca74fd916b843ad095c6cfb46aacce6fda416d16d6705dfe8ba8ebb15b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold2/history.json,07ef9fec849ba05841a2d0cd2c067f585b23f95d76f67f1fb3b590d868dba64c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold0/history.json,d488a630d576040bbc866b99f5270a6baa0f7901f9997db00b3520f1e33cd1a8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold1/history.json,e4dedc913fb567a79323b0909eabb83e96cbfa3a01b34f2d30306a13ffc0034d
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold2/history.json,4cc75f97a5bb2066e55f302cd64e363d87376603886a373d47c8f11b62c5dccb
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold0/history.json,71a3a80a9b20238f5fb46f44675286e0b0b39f2d2d51f173798550fa20edd50a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold1/history.json,6bebf57d0ef918296aa999b723299cf5c8b8c4e1860e9c30dc42e2dfb55e9d29
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold2/history.json,8b2ad1526e2f99c7bc87b3684b758ccf9d33178d8a68ee0fed72fcbc7935a5e0
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_cnn_lstm_k40/history.json,3e52e3ad9e01f7cee0cd88d5f90343fe81df6dd76225d3dbef00a04dde0ea0c4
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_transformer_k40/history.json,413a9e1eb23020ba7b4c69cfcea8a37a678ff11ce43e43b391d57ad734b4d7ca
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_00/history.json,9062583e2b524f9193f7d55d14193447a9dc2fd6c5bf3b92949bc3c3d5f3badc
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_01/history.json,0e566560778ac626b506135fec43bb503e749fbbb68a9121c5b0607e813e930e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_02/history.json,9cfb9e8dc45c65537a392443f1c54a0b2e87b10cbe99085c37702cd0664ab401
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_03/history.json,f443523449d5f0e7cd439ed52a0ce9e57394a3811ba590c8df3456aa27da23e2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_04/history.json,0307c5ef6034a3398e2f0185c71e13e158950f9c963ef1c6211450c6d474b518
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_05/history.json,8fb90e5f6a061ecba2ba037ea3993d142977f28ae17bbba78d804265e6e7a335
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_06/history.json,455ac9def87fdbc979c32c5b339f5a350a7b735905fbfdf25be53bda8213afd9
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_07/history.json,54be570712c5e1d48623edf5a58e57e1ecf209430c8478bd1c19cbe69824c106
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_00/history.json,042b874ad4395449bb3da1492c6a4e1ca3f40568f675976380009e8fa836f48b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_01/history.json,a069ebd5a70a52fa9ec472705de9cb32c9412247f4aed04b38d86899391e9b22
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_02/history.json,cde0cafc3dc6995501b19c760b0a507059573e4ed3a12dbc37453e203b40b826
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_03/history.json,505b98b8be81a4eed963de13773d1960012712ee427ace2a9c7fadb795435da2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_04/history.json,dd2c78975e4a3fef140bc31dba6249f2168b7e42ed7a6544fbaba9f26f7a5cdf
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_05/history.json,a8fc6e28f5754e54f814de2f01427e8b7c332b39b44fcd547a1ab128bea4bc9d
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_06/history.json,b9f13fd9f1ab094b66e9834bd8999d3e52d64024b54666dd095be25ab5025d33
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_07/history.json,338b08a9cf991fe041c0ca08030cb5c93cd377943921035d704f9496dd5d6988
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_cnn_lstm/result.json,9ce7d6a6078521d448c4b783956d29dfabebf78369cca3f1a7678222dfdfb558
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/baseline_transformer/result.json,37e75affccbceec3924a7f2f60b1f359409c8b59b4a08838e800e9bc16c5f4e2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold0/result.json,a81f249a11c55a427570c79a3f147f8d3e1c39d7c889562ed52b543431a651f8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold1/result.json,8a2cd3f11332e7c20e52ec7251074afa2163ae4b54034576facdfbd7475c9b84
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k01_fold2/result.json,a929aa437b30fd36ae220e90b04d0bc2343e1a705f6da27e64417fa326f0cac6
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold0/result.json,8a7614c7acf11323401202d8b48194a222fdb4883c77fa4f3b2db18614500ce9
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold1/result.json,fc48a63675304b70fc7cf032cda976f36155703c5a4b1ea9910d4770223c8a5c
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k02_fold2/result.json,a2e54426c568c79b75c6548d02a55fadded3d0dcfa7d58af5b40996d3271555b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold0/result.json,7ace0bf16073a95dbbdcd0cabd47391024bf209cbca4c879c3e3c354dc11bb1b
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold1/result.json,8c40bf2ce1359e91f48f175926dcc6563965320145253cad46acba54b7b0d54d
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k05_fold2/result.json,ee89b94d7979d6c4b825c8f76a7560dc036fd44b518567d3b3a43383be307cf2
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold0/result.json,8bb2185c0da7c5cde68da6de7f6dc553f3ccd63fadcac6682e7f3328d3faaf06
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold1/result.json,5e3d380be7067161a6af5c43ddef8bb8b62bc767c9a22e8987b6fa095db774c8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k10_fold2/result.json,b405d09722f1500cf9d33d3e6613236a9fea100dbac400dcb24d8e3dd8c93582
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold0/result.json,3e2a1ffb1107f0a6c768a7a3d2066292dd4edf554ddf02e1c0323945b142383d
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold1/result.json,9e183fc1e57a61301180e93d7d3aa682143e55e0dd91996c4f98368c42f069a3
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k20_fold2/result.json,4da8f906b5aa8fa3adf1fd48cf4e1703043aa554e6a6ef246db04e99d3a0a7aa
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold0/result.json,a30847a5007890b8f26ac07ce2422770a47a662f8d1ae5999581245909f77631
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold1/result.json,8aacf837ac04d9cd133fa8234c3a26e1289913ea401660e1e3cb1522540c03c1
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_cnn_lstm_k40_fold2/result.json,c7dfb2eeff447ebed3f94fcea890170f23b85c981607b7448477610d2d5228b8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold0/result.json,768c037e2b2dd89fac5da3956dab8fabe20fe74c7eadd9c25aa2c5a438f35659
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold1/result.json,4f0db4ff8056600f666106e829f24f1ae5f1dd1f36561e44f1ebf3f62cc451bb
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k01_fold2/result.json,a4b8b4dd1383f449844ffa446f5828bf828e19dc2af2b200389f791dbc5a6be7
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold0/result.json,a6f0204aeee37a050d694db80bf7a62bcdc8a84d58453cfbc4f942df3c63ef91
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold1/result.json,d7ecb4e4112d72328079cffca6dae6ba3d8260ebd343257600ed9d39b39492f8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k02_fold2/result.json,11fd27b33ada5c201d4e0aa516d1a04e7881f9e09375d1b7102b8d65733562a4
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold0/result.json,830d327b35dc92518bb866fc32544aa007faa04ce639761e237f7ce93b53c076
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold1/result.json,cadd092ef9efaca2a8800d2120c37f3f9fee718663925cfb1231bfcbd001e166
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k05_fold2/result.json,a89ae2d36c10f8e82e9772c483adbe10387b2f5e0abe7d948b8036565d0ca290
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold0/result.json,12816819826baeb0d22dcd7727f34cccbb2fee939718545729e67541c5ea0450
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold1/result.json,f3f2d2d759fef7d55ea67db0591883cebc248b3b4fdaea839f69c87f06bfc6c4
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k10_fold2/result.json,befce8da70b210ed97be31b4c824cd8683a197319177e191d127973ec16f3265
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold0/result.json,71e3f337189519c17cc49cbf2736f6271efa2e4dec1851e8e4e7ac6033d99325
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold1/result.json,7ed158e17681c2c03988c9dbf134c3d5a33a242cf844a0b1a3d198fb2137d0a8
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k20_fold2/result.json,a92981cf6ea1c914c93e249530bed948fec2c5c5f668136a94c193202631a52a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold0/result.json,e68831c9dfa882e3b58c863faf8246b2c92362ec4722970577668be72a968a9d
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold1/result.json,f5ed9a6414c84a3e8d88fc37d6122e2315f870349b83c7e286d9a0b8660c98cd
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/feature_transformer_k40_fold2/result.json,041ff336ef8a01ba20edfcaf118370fd4cad1e1a21de15aa0907ba20d447a450
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_cnn_lstm_k40/result.json,ebd498360fea2fb3f8e0e5b0bc5a8223c70750bc86a41745dae65b0bd7845277
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/final_transformer_k40/result.json,87857c76b7f3d6bbe4323e9d04df859e8fada59efeb09d3a243ec49ba6793f04
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_00/result.json,b3d38068326378cbfb6a665937873bba7d41f96a8815b375c945a115cb310523
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_01/result.json,4cc412072936f53b46da6d9c510db4b9d139623670e3a936512a2d6bc4f7c35a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_02/result.json,902f1df54e762d04ee81b59f01171dc28696382b59b42bab6f1f3df82b1f8573
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_03/result.json,a0356b6d832894bba952a9b8ef57cbaacfac071fdb3850fbb646dfa33ed5abae
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_04/result.json,9a32ae26cb3d80388e9655633d884405e547e4184192eb364e8c6850d1c9955f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_05/result.json,979ad4c3bdb78bd5542e838ded5e014d9e48d5d60ef74a13c09fc3fa7cfeaa18
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_06/result.json,407e93dad84b1e20275aa1d6cdcc43001aff4f9fc3f05c78e684f4fc70ea7183
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_cnn_lstm_07/result.json,5068e5f9fa86f2fd959f1b67916798f74598c12569e09c2a316b6db4e5a47146
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_00/result.json,c6f197ed832006c225f716967b2abdb93220a0365704c6f4e789fe0ba9a9143a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_01/result.json,82e2282e4c507c2b393e57c4e54caec8cae80adf0cb75b8c405b25a667b39d22
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_02/result.json,2b0e3d825b7655b0fcf33e8fd0e048b7d309cb9f4ba0eb60266a35510ee6b534
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_03/result.json,964fceb0416534e25dcbf82ee80462c5a3aee31bb2bdc20461d33ac085f8fbab
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_04/result.json,fb4dcffd10c88bbd253bd1601c1d6ad3f327a078d325fe51444471e4981abc1a
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_05/result.json,1c33d5654a528b9d9598c72f8a6424497308b3425776ebe6cbf671b705860100
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_06/result.json,072c2eac8eeb240385be2eedda0ad57e468d5c8d111d6219c65961b4f7110ed1
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/hpo_transformer_07/result.json,72a61f03831c65ebea8b6aea1ab057fca8bcb0748760a8196a06b7de2eaec76e
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/study_identity.json,3a6ab4fad6f1e5ca32d56fc5a6070539218cd2dc3f9f5d9cdb74c016ab43001f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/cnn_lstm_search_plan.json,0ec8a78da4275229ceb5cef50e48b66b7b2d1878aca97129c5d59a0ec320b13f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/transformer_search_plan.json,6abfad97e900a1042666f2e8bb258de5279a6c4b97875491fd90c70a678a066f
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/ranking_fold_0.json,d0a60be9373d8bc515154c35058a38393ce20a71e457dbcffd5d3ba501bf3e53
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/ranking_fold_1.json,38902fb710ce29152b6e16d0bc0c5dfb7750eda43483f8a636eb622767a0e6cf
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/ranking_fold_2.json,cd31f4a1addb6ad26ab37d8ebba2c1d79b9369b4c06b7aad732cf7c4053710aa
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/ranking_full_train.json,f2b867ff950683f9c109d358250669e255c5f520c37324c91f19d88d3235db3d
+Reproducibility and training behavior,5.2 / 6.0,complete_experiments/frozen_selection.json,a469359f68e336f8d9e46ff78472e925722ba32f0e64ad3e0bb5e177d033068d
+Partition and runtime provenance,5.2,split_manifest.csv,57c73f5cda0a4d67cb9f933e694e5ae0ad7917fec1d5a2377eec50d895adbf54
+Partition and runtime provenance,5.2,complete_run_identity.json,7329dad64590811f28b1ea84a0887283c77b5c48c405cb8433d84fd9e5baf91f
+Partition and runtime provenance,5.2,preflight/20261105T201439867147.json,602a5ccb41fa350fd3118ade3a009bd3c0611d00eb6c66edc5b3dc9526ca932a

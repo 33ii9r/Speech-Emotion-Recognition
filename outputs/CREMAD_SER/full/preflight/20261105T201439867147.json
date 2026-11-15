@@ -1,0 +1,21 @@
+{
+  "device": "cuda",
+  "cuda_executed": true,
+  "google_drive_exercised": true,
+  "checkpoint_round_trip": true,
+  "checkpoint": "20261105T201439867147.pt",
+  "sha256": "a824f2e76cf7cd86bfe817c513125ce0c12de10b69d7a0bafdc0e501f5a9c9d6",
+  "software": {
+    "python": "3.13.16",
+    "torch": "2.11.0+cu130",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "librosa": "0.11.0",
+    "soundfile": "0.13.1",
+    "datasets": "3.6.0",
+    "huggingface-hub": "0.33.4",
+    "matplotlib": "3.10.1"
+  }
+}

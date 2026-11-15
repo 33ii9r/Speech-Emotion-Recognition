@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest==9.1.1
+httpx==0.28.1
+# Reading one existing CREMA-D recording for real-audio verification only.
+pyarrow>=18

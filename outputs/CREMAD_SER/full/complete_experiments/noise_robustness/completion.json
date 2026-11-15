@@ -1,0 +1,59 @@
+{
+  "identity": {
+    "frozen_sha256": "a469359f68e336f8d9e46ff78472e925722ba32f0e64ad3e0bb5e177d033068d",
+    "study": "d68faf0d103fee2696adbb30f24b365e9c1a0a4b73fae25bcfbdaeb514201abc",
+    "protocol": {
+      "seed": 502,
+      "snr_db": [
+        20,
+        10,
+        0
+      ],
+      "noise": "Additive white Gaussian",
+      "power_window": "Mono 16 kHz; first six seconds, including pauses",
+      "headroom": "One common gain per recording across clean and all SNRs; peak at most 0.99",
+      "role": "Frozen final models only; no model selection"
+    },
+    "scope": "CREMA-D",
+    "test_manifest": "1def96a61ea87c1b0faf0bf38e54bda251f928c3f3aa6811b98d8ef452f617ee",
+    "standard_evaluations": {
+      "baseline_cnn_lstm": "2cf3a9540f5dbee7046094cbae9c2340756b2f41407c58a487638b8e14eaa868",
+      "final_cnn_lstm": "36a453103bcafc9a401af32604d53a60288168d0d3ec7cbce1092867c0cf6f4f",
+      "baseline_transformer": "46407b015bd4881fe7bb69473208c4ed1c1656d389b48d7ad4c91302d23358b5",
+      "final_transformer": "9c5e3fc78116c9dc7be59c55d0157885702d121c8129f54952a7fc4512d9b544"
+    }
+  },
+  "completed_evaluations": 8,
+  "artifacts": {
+    "identity.json": "005ea6e851620a6f5e788db6ee7bc5d44a9bfcb49bcfc15382dc056c270fe8cb",
+    "inputs.json": "eeffbbcd98a61c404d64ab60c6b19aaaf901944abfc923ec1bbdaf31cab5b4c4",
+    "input_metadata.csv": "51b41711606ec4084d79c1132a35ef1f2696dd43bcbc588ac9e21b642fcc0e51",
+    "comparison.csv": "b1a5b1610a69afbee218ece8dfd4e4036256ed75039f476a96cac85b9742d1a9",
+    "performance_vs_snr.png": "bce541d26838a27020763e5e586cbf514b225879f34acec8e3eafbc0acb4e8a5",
+    "performance_vs_snr.svg": "0b66bc59c21483d92a924834797e2a44b521c142f9858bf16b14f2977b308239",
+    "transformer/clean/identity.json": "6d3a3fe5cc1eba3eddd50b837833692f894626c15f44f5c565d94e9bb6d18f8b",
+    "transformer/clean/predictions.csv": "504a1f98743ba4983a28fe4131ad6fcb661bc04108216240d027223b4bc47619",
+    "transformer/clean/evaluation.json": "69fc8185b6397264190178578e945bcd040d5c74ecb9ba07a1c406636af14397",
+    "transformer/20dB/identity.json": "3cf798b5917e318bd79987a92ac56875921737acbf7c7941d9a15d18a0e57f9b",
+    "transformer/20dB/predictions.csv": "cc644b6be4ae9545eacb08544e89c87ec3bb6608d92578fbddc58c83c867428c",
+    "transformer/20dB/evaluation.json": "686800744381953e24325ea84a326ce2aa5e8b2599f6eddfb298fd2a3e7fe65f",
+    "transformer/10dB/identity.json": "6ad5624615aae90a40ed2f0c4f91d919fbdd034d1c6edcfc6a70d50a23ab5932",
+    "transformer/10dB/predictions.csv": "83caabb70ff99acff04dbd0aac87724484d1b127a170bd9fc942f9f6c566b5c1",
+    "transformer/10dB/evaluation.json": "ce850d17f99a1eb9699f392b2112cce4c39cefae42e3c74aec1ef7d6e9a2067a",
+    "transformer/0dB/identity.json": "7749b01a30d27cdefd863fc16492695e8044b3646ee94531170954726c5d14bd",
+    "transformer/0dB/predictions.csv": "a29ed80edcb48c146af5a8122b5537436b2a955785cc12664b073a069c6605bb",
+    "transformer/0dB/evaluation.json": "1923da69f112479754cc731e4e30223f90d7b491761da9b6b09ec6fa440063d9",
+    "cnn_lstm/clean/identity.json": "0eed321cc7f76d7fcee7fe9e7b2e3e08704d8fc0c98ef61847c1de048bffbdcb",
+    "cnn_lstm/clean/predictions.csv": "7190094653da461dc66751cb781fd71fa3ba59088410730f39e0485ab2ed5241",
+    "cnn_lstm/clean/evaluation.json": "a8bd7541e7591cf0f60fbd01d6af332a66e3df2d3f9875e41cd1bed92ec7e3cf",
+    "cnn_lstm/20dB/identity.json": "6a2ae094d9c9256c4029247de902468c1239dc709cc86ad733f434cabc0a0aaf",
+    "cnn_lstm/20dB/predictions.csv": "4ba68a7d962a24e4b7e8d978ddf3b187b49437439d656f7968709c98c13ce384",
+    "cnn_lstm/20dB/evaluation.json": "0660d079ed44435f0cc5adbddba76cd58afec65d7d65f3c9812046b0385e0010",
+    "cnn_lstm/10dB/identity.json": "79708d432aaa120f19f8f0c81d050fd6d9ed739cc682caff14e0801562403606",
+    "cnn_lstm/10dB/predictions.csv": "176b310e79dff68806f1f6ffe93363516b3408029aade5986a881d53db4f335e",
+    "cnn_lstm/10dB/evaluation.json": "e0b85b2d3739b6dd98e9eaee622199dd79c22b52a63c08082f23ae6e57503928",
+    "cnn_lstm/0dB/identity.json": "b83e1d2c50c7cab92b6831000ab8eec576d653bd2b69f65e1ea900f3c70b0b21",
+    "cnn_lstm/0dB/predictions.csv": "308e04ef4bdb5cc169f5fc0de965bc76cd2c69e458de5bcf42709993eb7ed6a6",
+    "cnn_lstm/0dB/evaluation.json": "e3bcd963eb79ec58751c2a45b1f404b2c87258db59d96a45e9003303be1294ed"
+  }
+}

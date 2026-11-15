@@ -1,0 +1,120 @@
+{
+  "metrics": {
+    "accuracy": 0.553415061295972,
+    "precision_macro": 0.5555625826019684,
+    "recall_macro": 0.5560775884129178,
+    "uar": 0.5560775884129178,
+    "balanced_accuracy": 0.5560775884129178,
+    "macro_f1": 0.5526840801540412,
+    "weighted_f1": 0.5519486980300411
+  },
+  "per_class": {
+    "angry": {
+      "precision": 0.6461538461538462,
+      "recall": 0.6461538461538462,
+      "f1-score": 0.6461538461538462,
+      "support": 195.0
+    },
+    "disgust": {
+      "precision": 0.465,
+      "recall": 0.47692307692307695,
+      "f1-score": 0.4708860759493671,
+      "support": 195.0
+    },
+    "fearful": {
+      "precision": 0.581081081081081,
+      "recall": 0.441025641025641,
+      "f1-score": 0.5014577259475219,
+      "support": 195.0
+    },
+    "happy": {
+      "precision": 0.5510204081632653,
+      "recall": 0.5538461538461539,
+      "f1-score": 0.5524296675191815,
+      "support": 195.0
+    },
+    "neutral": {
+      "precision": 0.5186915887850467,
+      "recall": 0.6646706586826348,
+      "f1-score": 0.5826771653543307,
+      "support": 167.0
+    },
+    "sad": {
+      "precision": 0.5714285714285714,
+      "recall": 0.5538461538461539,
+      "f1-score": 0.5625,
+      "support": 195.0
+    },
+    "accuracy": 0.553415061295972,
+    "macro avg": {
+      "precision": 0.5555625826019684,
+      "recall": 0.5560775884129178,
+      "f1-score": 0.5526840801540412,
+      "support": 1142.0
+    },
+    "weighted avg": {
+      "precision": 0.5564665999635042,
+      "recall": 0.553415061295972,
+      "f1-score": 0.5519486980300411,
+      "support": 1142.0
+    }
+  },
+  "roc_auc": [
+    {
+      "label": "angry",
+      "auc": 0.9067392304984703
+    },
+    {
+      "label": "disgust",
+      "auc": 0.807077681206509
+    },
+    {
+      "label": "fearful",
+      "auc": 0.8049386727317034
+    },
+    {
+      "label": "happy",
+      "auc": 0.8427476782281429
+    },
+    {
+      "label": "neutral",
+      "auc": 0.8894027329955474
+    },
+    {
+      "label": "sad",
+      "auc": 0.8935423604906182
+    }
+  ],
+  "macro_ovr_auc": 0.8574080593584985,
+  "recordings": 1142,
+  "provenance": {
+    "frozen_sha256": "a469359f68e336f8d9e46ff78472e925722ba32f0e64ad3e0bb5e177d033068d",
+    "trial": "baseline_transformer",
+    "checkpoint_sha256": "80489ec43822d6a3a6e5b3d966aea38eb3554441d9c322211b4adeb602d69814",
+    "normalizer_sha256": "08702e8ba0b8b65cb45df7bfbb48b3acbf69bf4c6cfcf12be2ef7b4c66ef5dc7",
+    "scope": "CREMA-D",
+    "test_manifest": "1def96a61ea87c1b0faf0bf38e54bda251f928c3f3aa6811b98d8ef452f617ee"
+  },
+  "scope": "CREMA-D",
+  "artifacts": {
+    "predictions.csv": "79fa183437712bcaa145572db886b76f57839a1c6438d834e27fbe63a573a12f",
+    "per_class.csv": "233a35e03ca44008baf7aac76d4bef73f289bb3b3ba10487cb5f0626dfcc1420",
+    "confusion_counts.csv": "31a99040c81020115686ff1be477143f4bc8e07a7a114ac2709ec3f462cec2d7",
+    "confusion_normalized.csv": "61863ae84a8cc4cff79e29642e166edd92ed61b69a118e7b50e4d5715391b574",
+    "confusion_counts.png": "d90ffc2f3b85f13147ea2f172fb909bab7027a9dc8315f32dd3bf53e10e98ec2",
+    "confusion_counts.svg": "ebedaa07fb350375b96be2ab50fdc9ce90db83b0fd73c8ee2477e9d54a1172f7",
+    "confusion_normalized.png": "71a35203eb5412562332875e3a0141040a9cb28d43fa2fa347257a7cd9711cea",
+    "confusion_normalized.svg": "0bb63cc5dc4e483476d35de7e157369d02b27ace931361177fcfeb30f7894c34",
+    "angry_roc.csv": "39ea877c724c8a58ac59f8ce7a18cb2dbb00f0d115d7b202437b421418500342",
+    "disgust_roc.csv": "8d1a6d48f3717a4e3d73393a469ce7817b73ca431d9e2440285e220879dbbe1b",
+    "fearful_roc.csv": "71b93357f9dc8063a564b3ef118a409946bb45c575ace4ee9fa10ec3dd027376",
+    "happy_roc.csv": "4d38e71bf83a985f5e7bbeac3c273e7ab34466f721154eeeed4e9c8036140f1b",
+    "neutral_roc.csv": "784a49ee5cabf2f83d95343a0e8746c2a4ec5746058b0fe46c83120fb01e58ec",
+    "sad_roc.csv": "0b2980d8460db4e1c2dd4276ca6e2237373762a4fbd887d52cc003572373d18c",
+    "roc.png": "010e61c0a56cc1f9ed7d5af93ce301ffbd054edad8588b11cefc0abb4366ce99",
+    "roc.svg": "b854240e50f2cbc955cbfe5cd5b33ba8b0294e86623d7ad3d3b7ce3acf3d2856",
+    "errors.csv": "ee2d03b6fbe010e447d902f5a94222b879a488718922ef668cd244afb0dcf9d5",
+    "per_speaker.csv": "9e9e545a12486232fd1790b0eb089b769655418f5b5f0ee601390346613df7d7",
+    "error_pairs.csv": "5108e440a0f83370e53d64d3797b0dc916821d3c8796635177a4c1a80854336e"
+  }
+}

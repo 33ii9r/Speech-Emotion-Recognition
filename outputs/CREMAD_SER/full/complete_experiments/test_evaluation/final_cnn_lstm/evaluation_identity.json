@@ -1,0 +1,8 @@
+{
+  "frozen_sha256": "a469359f68e336f8d9e46ff78472e925722ba32f0e64ad3e0bb5e177d033068d",
+  "trial": "final_cnn_lstm_k40",
+  "checkpoint_sha256": "57bd82dfdfffd15bffa8bd094d32d8bf04881c7114716c70af70a6e9749785c9",
+  "normalizer_sha256": "08702e8ba0b8b65cb45df7bfbb48b3acbf69bf4c6cfcf12be2ef7b4c66ef5dc7",
+  "scope": "CREMA-D",
+  "test_manifest": "1def96a61ea87c1b0faf0bf38e54bda251f928c3f3aa6811b98d8ef452f617ee"
+}

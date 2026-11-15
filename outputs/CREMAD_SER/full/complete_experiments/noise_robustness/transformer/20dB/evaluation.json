@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "study": "215fe094dcf851adc8fa15a64b3dbd52bd99ade10ba461171d23e133fbda2541",
+    "trial": "final_transformer_k40",
+    "checkpoint_sha256": "886c2fbb77d7265491328fb58bab1056bc1bd1874b2e8f7bb557d1daa26f0147",
+    "normalizer_sha256": "08702e8ba0b8b65cb45df7bfbb48b3acbf69bf4c6cfcf12be2ef7b4c66ef5dc7",
+    "inputs_sha256": "eeffbbcd98a61c404d64ab60c6b19aaaf901944abfc923ec1bbdaf31cab5b4c4",
+    "condition": "20dB"
+  },
+  "metrics": {
+    "accuracy": 0.2618213660245184,
+    "precision_macro": 0.326532070022909,
+    "recall_macro": 0.256128768104816,
+    "uar": 0.256128768104816,
+    "balanced_accuracy": 0.256128768104816,
+    "macro_f1": 0.1788040900048581,
+    "weighted_f1": 0.1820922842886509
+  },
+  "recordings": 1142,
+  "artifacts": {
+    "predictions.csv": "cc644b6be4ae9545eacb08544e89c87ec3bb6608d92578fbddc58c83c867428c"
+  }
+}

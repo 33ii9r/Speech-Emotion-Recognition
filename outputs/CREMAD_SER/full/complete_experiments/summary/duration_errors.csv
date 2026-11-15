@@ -1,0 +1,13 @@
+model,duration_group,recordings,accuracy,scope
+baseline_cnn_lstm,0–2 s,169,0.621301775147929,CREMA-D
+baseline_cnn_lstm,2–4 s,968,0.5733471074380165,CREMA-D
+baseline_cnn_lstm,4–6 s,5,0.4,CREMA-D
+final_cnn_lstm,0–2 s,169,0.6982248520710059,CREMA-D
+final_cnn_lstm,2–4 s,968,0.5867768595041323,CREMA-D
+final_cnn_lstm,4–6 s,5,0.8,CREMA-D
+baseline_transformer,0–2 s,169,0.621301775147929,CREMA-D
+baseline_transformer,2–4 s,968,0.5423553719008265,CREMA-D
+baseline_transformer,4–6 s,5,0.4,CREMA-D
+final_transformer,0–2 s,169,0.6449704142011834,CREMA-D
+final_transformer,2–4 s,968,0.5340909090909091,CREMA-D
+final_transformer,4–6 s,5,0.4,CREMA-D

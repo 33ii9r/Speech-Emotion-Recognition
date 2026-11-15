@@ -1,0 +1,56 @@
+{
+  "signature": "15fc0854fb33cb0bb17e89658d2d659989323b8cc2be171005e2904b765e3ee9",
+  "name": "feature_transformer_k10_fold2",
+  "stage": "feature",
+  "scope": "CREMA-D",
+  "config": {
+    "architecture": "transformer",
+    "lr": 0.0003,
+    "weight_decay": 0.01,
+    "dropout": 0.1,
+    "head_dropout": 0.2,
+    "batch_size": 32,
+    "hidden": 96,
+    "width": 128,
+    "layers": 3,
+    "heads": 4,
+    "augment": true,
+    "scheduler": true
+  },
+  "bands": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "assessment": {
+    "accuracy": 0.4066705675833821,
+    "precision_macro": 0.3817446295831299,
+    "recall_macro": 0.4073348187269626,
+    "uar": 0.4073348187269626,
+    "balanced_accuracy": 0.4073348187269626,
+    "macro_f1": 0.37917571496152913,
+    "weighted_f1": 0.3785955314377555,
+    "loss": 1.465473290586362
+  },
+  "selected_epoch": 8,
+  "epochs_completed": 8,
+  "budget_epochs": 8,
+  "status": "complete",
+  "training_seconds": 42.21982903300068,
+  "parameters": 438022,
+  "stop_reason": "budget",
+  "artifacts": {
+    "resume.pt": "002157b36eaf07bcc1bb63a3cebc455ecdca11d13f5e9ef3ad9a97678475bd3d",
+    "best.pt": "d6008821440a8c29e1f852b102d57d30553c3172e9783a736cb7fe56f281e139",
+    "normalizer.npz": "ceeefc1132bf8614af4de81e3789604fb646aeead2c352d72074cbb08b54cc5f",
+    "history.json": "07ef9fec849ba05841a2d0cd2c067f585b23f95d76f67f1fb3b590d868dba64c",
+    "assessment_predictions.csv": "3af2a53fa0675919454ebfd4767ed8ae0d2afd9bbbacd18d334fc3fceb76e5a2"
+  }
+}

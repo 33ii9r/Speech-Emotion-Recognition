@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "study": "215fe094dcf851adc8fa15a64b3dbd52bd99ade10ba461171d23e133fbda2541",
+    "trial": "final_cnn_lstm_k40",
+    "checkpoint_sha256": "57bd82dfdfffd15bffa8bd094d32d8bf04881c7114716c70af70a6e9749785c9",
+    "normalizer_sha256": "08702e8ba0b8b65cb45df7bfbb48b3acbf69bf4c6cfcf12be2ef7b4c66ef5dc7",
+    "inputs_sha256": "eeffbbcd98a61c404d64ab60c6b19aaaf901944abfc923ec1bbdaf31cab5b4c4",
+    "condition": "10dB"
+  },
+  "metrics": {
+    "accuracy": 0.266199649737303,
+    "precision_macro": 0.10738466687261868,
+    "recall_macro": 0.25982905982905985,
+    "uar": 0.25982905982905985,
+    "balanced_accuracy": 0.25982905982905985,
+    "macro_f1": 0.14504578181876493,
+    "weighted_f1": 0.1486020706899781
+  },
+  "recordings": 1142,
+  "artifacts": {
+    "predictions.csv": "176b310e79dff68806f1f6ffe93363516b3408029aade5986a881d53db4f335e"
+  }
+}
